@@ -1,16 +1,24 @@
 # standard jekyll configuration
 
+name: 菜菜博士
+url: http://microcai.org
+description: 博士在网络的家
+
 permalink: date
 pygments: true
-exclude: ['Rakefile', 'README.md', 'config.rb']
 markdown: rdiscount
+baseurl: /
+
+source: .
+destination: ./_site
+plugins: ./_plugins
 
 # configuration required for some pages
 
-domain: blog.example.com
-title: My Blog Title
-author: Me
-email: me@example.com
+domain: microcai.org
+title: 菜菜博士 - 博士在网络的家
+author: microcai
+email: microcaicai@gmail.com
 
 # configuration for ehancements, uncomment to enable
 
@@ -20,8 +28,8 @@ email: me@example.com
 # google_analytics:
 #   account: UA-XXXXX-X
 
-# github:
-#   username: ghusername
+github:
+   username: microcai
 
-# disqus:
-#   id: disqusid
+disqus:
+   id: drcai
