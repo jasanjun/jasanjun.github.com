@@ -15,7 +15,7 @@ plugins: ./_plugins
 
 # configuration required for some pages
 
-domain: microcai.org
+
 title: 菜菜博士 - 博士在网络的家
 author: microcai
 email: microcaicai@gmail.com
