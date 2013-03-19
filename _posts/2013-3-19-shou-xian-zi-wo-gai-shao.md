@@ -1,7 +1,7 @@
 ---
 layout: post
-title: ss
-tags: [jekyll]
+title: 首先自我介绍
+tags: [first, post, jekyll, rocks]
 last_updated: 2013-3-19
 ---
 
