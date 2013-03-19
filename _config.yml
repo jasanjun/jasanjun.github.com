@@ -1,8 +1,8 @@
 # standard jekyll configuration
 
-name: ²Ë²Ë²©Ê¿
+name: èœèœåšå£«
 url: http://microcai.org
-description: ²©Ê¿ÔÚÍøÂçµÄ¼Ò
+description: åšå£«åœ¨ç½‘ç»œçš„å®¶
 
 permalink: date
 pygments: true
@@ -16,7 +16,7 @@ plugins: ./_plugins
 # configuration required for some pages
 
 
-title: ²Ë²Ë²©Ê¿ - ²©Ê¿ÔÚÍøÂçµÄ¼Ò
+title: èœèœåšå£« - åšå£«åœ¨ç½‘ç»œçš„å®¶
 author: microcai
 email: microcaicai@gmail.com
 
