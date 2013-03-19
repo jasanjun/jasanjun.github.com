@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 首先自我介绍
-tags: [first, post, jekyll, rocks]
+tags: [jekyll]
 last_updated: 2013-03-19
 ---
 # 首先自我介绍
@@ -36,11 +36,11 @@ last_updated: 2013-03-19
 
 怨天怨地怨无敌.
 
-
+<br />
 
 再度隆重介绍忠义寨金牌杀手
 
-
+<br />
 三月樱风风如刀 樱飞风中寒
 
 身背樱凤刀 
@@ -49,6 +49,7 @@ last_updated: 2013-03-19
 
 小子 你的命已寄在樱花之下
 
+<br />
 
 九月枫叶叶如剑 枫飘满叶红
 
