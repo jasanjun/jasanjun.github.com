@@ -1,4 +1,12 @@
+@font-face {
+    font-family: "TpldKhangXiDictTrial";
+    src: url(TpldKhangXiDictTrial.otf);
+}
 body {
     font-family: "Microsoft YaHei", Arial, serif;
     font-size: 1em;
+}
+q {
+    font-family: "Microsoft YaHei", Arial, serif;
+    font-size: 3em;
 }
