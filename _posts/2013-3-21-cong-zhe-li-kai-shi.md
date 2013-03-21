@@ -13,11 +13,13 @@ last_updated: 2013-03-21
 问的好！  
 这个blog部署在github-pages上，使用的[jekyll-template](https://github.com/krisb/jekyll-template)  
 如果你也想在github-pages上部署一个免费无限流量的blog的话，可以参考[这篇](http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html)  
+过些天我会写一个本blog建立流程，和注意事项，和修改动作。
 
 ## 这里会些点什么？
 good question！  
 我也一直在问自己，要写点什么在这里。  
-但我真不知道。。茫啊。。真茫啊。。  
+但我真不知道。。。应该有点markdown，javascript，emacs，python，jekyll等等等等
+
 
 
 
