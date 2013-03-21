@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 首先自我介绍
-tags: [jekyll]
+tags: [茫啊]
 last_updated: 2013-03-19
 ---
 # 首先自我介绍
