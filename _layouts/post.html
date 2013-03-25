@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{% if page.date %}<div class="postdate">写于 {{ page.date | date_to_string }}{% if page.last_updated %}, {{ page.last_updated | date_to_string }}最后更新{% endif %}</div>{% endif %}
+{% if page.date %}<div class="postdate">写于 {{ page.date | date_to_string }}{% if page.last_updated %}, {{ page.last_updated | date_to_string }} 最后更新{% endif %}</div>{% endif %}
 
 <div class="post">
 {{ content }}
