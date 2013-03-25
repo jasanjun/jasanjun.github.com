@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 黄山住宿完美攻略
+title: 黄山住宿完美攻略[转载]
 tags: [访名山 黄山]
 last_updated: 2013-03-25
 ---
